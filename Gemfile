@@ -31,6 +31,8 @@ group :development, :test do
   gem 'rspec'
   gem 'rspec-rails'
   gem 'shoulda'
+  gem 'factory_girl'
+  gem 'factory_girl_rails'
 end
 
 group :development do
