@@ -3,6 +3,7 @@ require 'rails_helper'
 RSpec.describe Entry, type: :model do
   describe "Associations" do
     it { should belong_to(:feed) }
+    it { should belong_to(:user) }
   end
   
   describe "Validations" do

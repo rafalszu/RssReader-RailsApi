@@ -5,6 +5,7 @@ RSpec.describe Feed, type: :model do
   
   describe 'Associations' do
     it { should have_many(:entries) }
+    it { should belong_to(:user) }
   end
   
   describe "Validations" do
