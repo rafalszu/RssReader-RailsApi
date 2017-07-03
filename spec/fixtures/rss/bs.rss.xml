@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BusinessSense</title>
+	<atom:link href="https://businesssense.pl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://businesssense.pl</link>
+	<description>Autoryzowany Partner MSP Google AdWords</description>
+	<lastBuildDate>Mon, 26 Jun 2017 12:38:45 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Aktualizacje algorytmów Google – sprawdź, co się zmieniło!</title>
+		<link>https://businesssense.pl/blog/aktualizacje-algorytmow-google-sprawdz-co-sie-zmienilo/</link>
+		<pubDate>Wed, 17 May 2017 10:43:23 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2185</guid>
+		<description><![CDATA[Każdego roku Google wprowadza od 500 do 600 modyfikacji algorytmu wyszukiwania. Podczas gdy większość tych zmian to drobne aktualizacje, które nie prowadzą do diametralnych przetasowań na listach wyników wyszukiwania, od czasu do czasu trafiają się poważne updaty, które znacząco wpływają na pozycje stron w wynikach wyszukiwania. Jak zmieniały się algorytmy]]></description>
+				<content:encoded><![CDATA[<p>Każdego roku Google wprowadza od 500 do 600 modyfikacji algorytmu wyszukiwania. Podczas gdy większość tych zmian to drobne aktualizacje, które nie prowadzą do diametralnych przetasowań na listach wyników wyszukiwania, od czasu do czasu trafiają się poważne updaty, które znacząco wpływają na pozycje stron w wynikach wyszukiwania.</p>
+<p><strong>Jak zmieniały się algorytmy wyszukiwania w 2015 roku?</strong></p>
+<p><strong>App Indexing – </strong>początek personalizacji wyników wyszukiwania na bazie informacji pochodzących z zaindeksowanych aplikacji, które stały się czynnikiem rankingowym dla zapytań zalogowanych użytkowników z zaindeksowaną aplikacją.</p>
+<p><strong>Dorway Pages – </strong>zaostrzenie walki ze stronami przejściowymi, które są powszechnie wykorzystywane w przypadku programów afiliacyjnych.</p>
+<p><strong>Mobilegeddon</strong> – zaostrzenie kryterium mobile friendly dla stron internetowych, które doprowadziło do obniżenia pozycji stron niedostosowanych do urządzeń przenośnych w mobilnych wynikach wyszukiwania.</p>
+<p><strong>Quality Update</strong> – modyfikacja głównego algorytmu wyszukiwania pod kątem sposobu oceny jakości serwisów internetowych.</p>
+<p><strong>Panda 4.2.</strong> – modyfikacja promująca serwisy o wartościowej zawartości.</p>
+<p><strong>Hacked Page</strong> – oficjalne rozpoczęcie walki ze spamem zamieszczanym na serwisach internetowych zaatakowanych przez hakerów.</p>
+<p><strong>App Interstitial </strong>– Google wprowadza sankcje wobec stron mobilnych, które wyświetlają okienka instalacji aplikacji w taki sposób, że zasłaniają one zawartość strony po wejściu na nią z mobilnych wyników wyszukiwania.</p>
+<p><strong>HTTPS Update</strong> – wersje stron będą domyśle indeksowane w protokole szyfrowanym HTTPS, nawet jeśli nie są one podlinkowane z żadnej strony.</p>
+<p>&nbsp;</p>
+<p><strong>Zmiany algorytmów w roku 2016 </strong></p>
+<p><strong>Mobile-friendly 2 – </strong>aktualizacja algorytmu Mobilegeddon, strony mobilne i responsywne mają być jeszcze lepiej widoczne w mobilnych wynikach wyszukiwania.</p>
+<p><strong>Pingwin 4.0</strong> – aktualizacja, która na długo przed wdrożeniem wywołała sporo kontrowersji i obaw. Algorytm walczący z niedozwolonymi sposobami linkowania serwisów internetowych dla szybszych efektów pozycjonowania okazał się działać inaczej niż pierwotnie zakładano.  Algorytm ignoruje spamowe linki, co prawdopodobnie skutkuje spadkiem pozycji domeny do której te linki prowadzą.</p>
+<p>&nbsp;</p>
+<p><strong>Nowości z 2017 </strong></p>
+<p><strong>Grounghog Update </strong>– specjaliści SEO przypuszczają, że 1 lutego została wprowadzona kolejna aktualizacja algorytmu Google, której zadaniem jest ocena jakości odnośników prowadzących do strony oraz zmniejszenie przekazywanych przez nie mocy PageRank lub też całkowite zignorowanie danych linków podczas określania rankingu podlinkowanej strony. Update nie został oficjalnie potwierdzony przez Google.</p>
+<p><strong>Phantom </strong>– w ostatnim czasie dużo słyszało się o tym, że roboty Google będą jeszcze dokładniej analizować jakość stron podczas rankingowania serwisów. To przypuszczenie potwierdziło się wraz z wprowadzeniem kolejnej aktualizacji algorytmu Phanton, nazwanej także Quality Update. Daty wprowadzania kolejnych aktualizacji Phantoma – maj/czerwiec 2015, listopad 2015, czerwiec/lipiec 2016, luty 2017 – wskazują na to, że aktualizacja jest ciągle modyfikowana i w przeciągu kolejnych sześciu lub siedmiu miesięcy możemy się spodziewać jej następnej wersji.</p>
+<p><strong>Fred Update</strong> – nieoficjalna aktualizacja algorytmu, która uderzyła przede wszystkim w serwisy contentowe, którego były nastawione na czerpanie zysków z wyświetlania reklam. Po wprowadzeniu Freda w rankingach spadły głównie serwisy przeładowane reklamami AdSense, w których brakowało wartościowej i przydatnej dla użytkowników treści. W środowisku SEO mówiło się także od spadkach stron z konkursami, które stosują techniki clickbait.</p>
+<p><strong>Co dalej? – czyli kilka słów podsumowania </strong></p>
+<p>Wszystkie zaobserwowane w ostatnich miesiącach aktualizacje algorytmu wyszukiwania stanowią ciąg dalszy wdrażania polityki Google, której główną misją jest poprawa jakości rezultatów wyszukiwania. Można zatem wnioskować, że dalsze zmiany i updaty algorytmu będą podążać w tym samym kierunku – do zwiększenia zadowolenia użytkowników Google z dostarczanych przez wyszukiwarkę wyników, co jest niemal jednoznaczne z dalszym obniżaniem widoczności serwisów przedstawiających niewielką wartość dla odbiorców.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Wszystko, co powinieneś wiedzieć o Data Center</title>
+		<link>https://businesssense.pl/blog/wszystko-co-powinienes-wiedziec-o-data-center/</link>
+		<pubDate>Fri, 12 May 2017 10:38:32 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2181</guid>
+		<description><![CDATA[Centrum Danych (z jęz. ang. Data Center) to miejsce, w którym zostały zlokalizowane komputery odpowiedzialne za zbieranie i przetwarzanie danych. Bez nich miliony użytkowników na całym świecie nie miałyby dostępu do stron i sklepów internetowych, poczty elektronicznej oraz serwisów społecznościowych. Data Center vs. Serwerownia Wiele osób używa określeń centrum danych]]></description>
+				<content:encoded><![CDATA[<p>Centrum Danych (z jęz. ang. Data Center) to miejsce, w którym zostały zlokalizowane komputery odpowiedzialne za zbieranie i przetwarzanie danych. Bez nich miliony użytkowników na całym świecie nie miałyby dostępu do stron i sklepów internetowych, poczty elektronicznej oraz serwisów społecznościowych.</p>
+<p><strong>Data Center vs. Serwerownia </strong></p>
+<p>Wiele osób używa określeń centrum danych i serwerownia zamiennie, nie zdając sobie sprawy z faktu, iż nie są one tożsame. Serwerownia to część centrum danych, jego najważniejsze miejsce, w którym znajduje się odpowiednio skonfigurowany sprzęt komputerowy odpowiedzialny za prawidłowe działanie całego centrum. Obok serwerowni w profesjonalnym data center znajdują się także miejsca pracy administratorów, pomieszczenia sieciowe oraz pomieszczenia wyposażone w systemy bezpieczeństwa, które gwarantują nieprzerwaną pracę urządzeń kluczowych dla prawidłowego działania centrum także w przypadku awarii zasilania.</p>
+<p><strong>Google Data Center – ile i gdzie?</strong></p>
+<p>Aby zapewnić swoim użytkownikom najwyższą jakość usług Google korzysta z 15 centrów danych, które są zlokalizowane na terenie obu Ameryk, Azji i Europy. DC Google w Ameryce Północne<strong>j</strong> można znaleźć następujących stanach: Karolina Południowa i Północna, Iowa, Georgia, Alabama, Oklahoma, Tennessee i Oregon. W Ameryce Południowej znajduje się tylko jedno Data Centre i mieści się w Chile. Azjatyckie DC są zlokalizowane w Singapurze i na Tajwanie. Natomiast trzy europejskie Centra Danych Google zostały zlokalizowane na terenie Irlandii, Finlandii oraz Holandii.</p>
+<p><strong>Data Center – jak to działa?</strong></p>
+<p>. To oznacza, że użytkownicy z różnych części świata korzystają z danych zgromadzonych w różnych centrach. Oczywiście dane te są na bieżąco aktualizowane i przesyłane między serwerami, ale to wiąże się z opóźnieniami czasowymi, w wyniku których użytkownicy Google w różnych częściach świata mogą uzyskać inne wyniki wyszukiwania dla tej samej frazy.</p>
+<p><strong>Zabezpieczenia </strong></p>
+<p>Dane gromadzone i przetwarzane przez Google to nie tylko ogólnodostępne serwisy internetowe, ale również prywatne i służbowe dane milionów użytkowników usług Google takich jak Gmail czy Kalendarz Google. Przechowywanie niewyobrażalnej ilości często niezwykle ważnych i poufnych danych to ogromna odpowiedzialność. Dlatego w swoich Data Center Google korzysta z autorskich systemów zabezpieczeń. Zabezpieczenia Google zostały zaprojektowane i stworzone w taki sposób, aby do minimum ograniczyć ewentualne słabe punkty – zarówno w sprzęcie, jak i oprogramowaniu. Dodatkowym zabezpieczeniem przed utratą danych jest ich wielorazowa replikacja oraz przechowywanie na wielu urządzeniach usytułowanych w różnych miejscach na świecie.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Jak sprawdzać postępy w pozycjonowaniu?</title>
+		<link>https://businesssense.pl/blog/jak-sprawdzac-postepy-w-pozycjonowaniu/</link>
+		<pubDate>Mon, 08 May 2017 10:34:25 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2178</guid>
+		<description><![CDATA[Mogłoby się wydawać, że nie ma nic prostszego od wpisania w okno wyszukiwarki określonego zapytania i sprawdzenia pozycji, na której odnośnik do naszego serwisu jest widoczny w wynikach wyszukiwania. Tymczasem w praktyce weryfikacja postępów pozycjonowania wcale nie jest taka prosta, a pozycja zajmowana przez dany odnośnik na liście wyników taka]]></description>
+				<content:encoded><![CDATA[<p>Mogłoby się wydawać, że nie ma nic prostszego od wpisania w okno wyszukiwarki określonego zapytania i sprawdzenia pozycji, na której odnośnik do naszego serwisu jest widoczny w wynikach wyszukiwania. Tymczasem w praktyce weryfikacja postępów pozycjonowania wcale nie jest taka prosta, a pozycja zajmowana przez dany odnośnik na liście wyników taka oczywista.</p>
+<p><strong>Od czego zależą wyniki pozycjonowania?</strong></p>
+<p>Pozycja odnośnika do tej samej strony internetowej w wynikach wyszukiwania Google, w tym samym czasie na trzech różnych urządzeniach należących do trzech różnych użytkowników, znajdujących się aktualnie w trzech różnych miastach może być zupełnie inna.</p>
+<p>Jak to się dzieje?</p>
+<p>Oczywiście powody mogą być trzy:</p>
+<ol>
+<li>Data Center</li>
+<li>Geolokalizacja</li>
+<li>Personalizacja wyników wyszukiwania Google</li>
+</ol>
+<p><strong>Data Center</strong> to miejsce, w którym zgromadzone są komputery, których zadaniem jest zbieranie i przetwarzanie danych. Google posiada swoje Data Center w wielu miejscach na świecie. Po uruchomieniu wyszukiwarki użytkownik zostaje automatycznie połączony z dostępnym Data Center i to z jego baz danych pochodzą wyniki wyszukiwania dla zapytań tego użytkownika. Ze względów technicznych, np. czasu niezbędnego na dokonanie aktualizacji danych we wszystkich Data Center wyniki wyszukiwania z różnych DC mogą się od siebie różnić.</p>
+<p><strong>Geolokalizacja</strong> to algorytm Google identyfikujący lokalizację, z której pochodzi zapytanie i dopasowujący do niej odpowiedzi prezentowane na liście wyników wyszukiwania. Geolokalizacja działa w oparciu o adres IP urządzenia, z którego zostało skierowane zapytanie. W praktyce oznacza to, iż w tym samym czasie użytkownicy z Warszawy, Krakowa i Katowic po wpisaniu w okno wyszukiwania frazy „stomatolog” mogą otrzymać różne odpowiedzi dla swoich zapytań.</p>
+<p><strong>Personalizacja wyników wyszukiwania </strong>to usługa, dzięki której użytkownik ma otrzymywać wyniki wyszukiwani dostosowane do jego osobistych preferencji. Personalizacja wyników działa na bazie danych gromadzonych przez Google na temat poszczególnych użytkowników – historii odwiedzanych stron, historii wcześniejszych zapytań, kontaktów zapisanych w skrzynce poczty elektronicznej i innych danych z usług Google. Za sprawą personalizacji ten sam użytkownik korzystając z tego samego urządzenia może otrzymać różne wyniki wyszukiwania dla tego samego zapytania – wszystko zależy od tego, czy w momencie wprowadzania zapytania w oknie wyszukiwarki jego urządzenie</p>
+<p><strong>Jak sprawdzić, czy moja strona osiąga coraz wyższy wynik?</strong></p>
+<p>Algorytmy odpowiedzialne za personalizację wyników wyszukiwania mogą utrudniać obiektywną ocenę rezultatów pozycjonowania dla poszczególnych fraz kluczowych. Nie oznacza to jednak, że ich weryfikacja jest niemożliwa. Warto jednak pamiętać o kilku rzeczach:</p>
+<ul>
+<li><strong>Urządzenie </strong></li>
+</ul>
+<p>W miarę możliwości podczas regularnej weryfikacji wyników pozycjonowania staraj się korzystać z tego samego urządzenia, a najlepiej dwóch – stacjonarnego i mobilnego. Wyniki wyszukiwania mogą się nieco różnić zależnie od urządzenia z jakiego pochodzi zapytanie. W przypadku urządzeń mobilnych Google będzie dążyć do dostarczenia użytkownikowi jak najtrafniejszych wyników, co obejmuje również responsywność i mobilność stron www.</p>
+<ul>
+<li><strong>Lokalizacja </strong></li>
+</ul>
+<p>Staraj się sprawdzać postępy w pozycjonowaniu swojego serwisu przebywając w tym samym miejscu (mieście). Pamiętaj o wpływie geolokalizacji na prezentowane wyniki wyszukiwania. Ocena rezultatów pracy agencji SEO podczas podróży służbowej może nie być najlepszym pomysłem.</p>
+<ul>
+<li><strong>Częstotliwość</strong></li>
+</ul>
+<p>Aktualizacja danych między poszczególnymi Data Center wymaga czasu, dlatego nie wszystkie rezultaty działań SEO są widoczne od razu. Staraj się śledzić zmianę pozycji swojego serwisu na bieżąco, ale nie szalej z częstotliwością. Nie spodziewaj się również rewolucyjnych zmian po każdym zgłoszonym przez agencję działaniu.</p>
+<ul>
+<li><strong>Ustawienia </strong></li>
+</ul>
+<p>Pamiętaj o funkcji personalizacji wyników Google. Sprawdzając postępy w pozycjonowaniu swojej witryny za każdym razem upewnij się, że jesteś wylogowany z innych usług Google, a historia wcześniej odwiedzanych stron została wyczyszczona. Strony, które odwiedziłeś od ostatniej weryfikacji pozycji swojego serwisu w Google mogą wpłynąć na wyniki, które uzyskasz.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pozycjonowanie – co zrobić, żeby znaleźć się wysoko w Google?</title>
+		<link>https://businesssense.pl/blog/pozycjonowanie-co-zrobic-zeby-znalezc-sie-wysoko-w-google/</link>
+		<pubDate>Thu, 04 May 2017 10:25:38 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2175</guid>
+		<description><![CDATA[Pozycjonowanie to szereg przemyślanych i zaplanowanych działań, których celem jest kształtowanie oferty i wizerunku produktu, marki lub firmy. Poprzez działania związane z pozycjonowaniem wśród nabywców kreowany jest wizerunek – produktu, marki lub firmy – wyróżniający się na tle konkurencji. Termin pozycjonowanie w e-marketingu odnosi się przede wszystkim do pozycjonowania stron]]></description>
+				<content:encoded><![CDATA[<p>Pozycjonowanie to szereg przemyślanych i zaplanowanych działań, których celem jest kształtowanie oferty i wizerunku produktu, marki lub firmy. Poprzez działania związane z pozycjonowaniem wśród nabywców kreowany jest wizerunek – produktu, marki lub firmy – wyróżniający się na tle konkurencji.</p>
+<p>Termin pozycjonowanie w e-marketingu odnosi się przede wszystkim do pozycjonowania stron internetowych, a więc wszelkich działań zmierzających do takiego wypromowania danego serwisu internetowego, żeby zajmował jak najwyższe pozycje w wynikach wyszukiwania dla określonych słów i fraz kluczowych. Działania realizowane w ramach pozycjonowania serwisów www powinny być przemyślane i spójne.</p>
+<p><strong>Jak znaleźć się wysoko w Google?</strong></p>
+<p>Przede wszystkim należy pamiętać o tym, że serwis internetowy – strona www czy sklep online – są tworzone dla użytkowników, a nie dla wyszukiwarek. Nawet najwyższa pozycja w Google nie będzie przekładała się na wzrost wyników sprzedaży, jeśli strona będzie nieprzyjazna dla użytkowników i wypełniona treściami o niskiej jakości. Dlatego przed rozpoczęciem przygody z pozycjonowaniem warto zlecić profesjonalny audyt serwisu, który pozwoli na jego rzetelną ocenę zarówno pod kątem optymalizacji, jak i użyteczności dla internautów.</p>
+<p><strong>Sprawdzone sposoby na jeszcze wyższe pozycje </strong></p>
+<p>Choć „triki” na wysokie pozycje w wynikach wyszukiwania Google to wciąż zagadnienie, którego lepiej nie poruszać w pomieszczeniu pełnym ekspertów SEO, bo po krótkiej wymianie zdań może się okazać, że opinii jest więcej niż ekspertów, to co do kilku wszyscy wydają się zgodni.</p>
+<p><strong>Po pierwsze domena</strong>. Domeny wykazują tę samą cudowną właściwość co wina – z czasem stają się coraz lepsze. Nic więc dziwnego, że na rynku wtórnym domen popyt nie maleje. – <em>Pamiętajmy jednak, że każda domena ma swoją historię. Dlatego przez zakupem domeny, która już nie jest używana warto ją poddać gruntownej analizie i to nie tylko pod kątem przydatności do naszych celów.</em> – tłumaczy  <strong>Mateusz Kozłowski, kierownik działu pozycjonowania stron internetowych w firmie Business Sense Agencja SEM.</strong></p>
+<p><strong>Po drugie atrakcyjność treści. </strong>– <em>W tym miejscu warto dodać, że treści powinny być atrakcyjne zarówno dla użytkowników, jak i robotów Google.</em> – przypomina <strong>ekspert z</strong> <strong>Business Sense. </strong>Popadanie w skrajności – jak wszędzie – również w tej materii nie popłaca. Skupianie się tylko i wyłącznie na robotach Google na dłuższą metę do niczego nie prowadzi. Natomiast ich całkowite ignorowanie przekłada się na zmniejszoną widoczność w sieci.</p>
+<p><strong>Po trzecie tylko dozwolone praktyki. </strong>Wszystkie działania, które mają wspomóc twoją witrynę w drodze na coraz wyższe miejsca w wynikach wyszukiwania niosą za sobą pewne ryzyko. strony są wychwytywane przez algorytmy Google i często karane obniżaniem pozycji w wynikach wyszukiwania, co wiąże się z mniejszą widocznością w sieci. Dlatego przed rozpoczęciem pozycjonowania warto sprawdzić, które techniki są dopuszczalne przez Google, a które nie.</p>
+<p><strong>Po czwarte fachowa pomoc</strong>. Osiągnięcie i utrzymanie wysokiej pozycji w wynikach wyszukiwania Google nie jest łatwe, zwłaszcza dla osób, które nie zajmują się pozycjonowaniem na co dzień i nie śledzą wszystkich zmian algorytmów wyszukiwarki. Na szczęście nikt z nas nie musi być ekspertem od wszystkiego i w każdej chwili możemy skorzystać z fachowej pomocy agencji SEO. Pamiętajmy jednak o tym, żeby wybrać ją z głową.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Jak tworzyć strony przyjazne SEO?</title>
+		<link>https://businesssense.pl/blog/jak-tworzyc-strony-przyjazne-seo/</link>
+		<pubDate>Wed, 26 Apr 2017 10:09:01 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2172</guid>
+		<description><![CDATA[Kluczem do tworzenia stron określanych mianem SEO friendly jest zrozumienie dwóch rzeczy. Po pierwsze Google to tylko algorytm, który nie zna naszej firmy oraz specyfiki jej funkcjonowania. Po drugie SEO to zestaw technik optymalizacyjnych, których zadaniem jest pomóc Google w jak najlepszym zrozumieniu naszej strony i jej głównej tematyki. Na]]></description>
+				<content:encoded><![CDATA[<p>Kluczem do tworzenia stron określanych mianem SEO friendly jest zrozumienie dwóch rzeczy. Po pierwsze Google to tylko algorytm, który nie zna naszej firmy oraz specyfiki jej funkcjonowania. Po drugie SEO to zestaw technik optymalizacyjnych, których zadaniem jest pomóc Google w jak najlepszym zrozumieniu naszej strony i jej głównej tematyki.</p>
+<p><strong>Na co zwracać szczególną uwagę tworząc stronę przyjazną SEO?</strong></p>
+<p>Strony przyjazne SEO wyróżnia odpowiednia zawartość i jej właściwa organizacja, a także przestrzeganie technicznych aspektów optymalizacji. W związku z powyższym projektując stronę www warto zwrócić szczególną uwagę na:</p>
+<ul>
+<li><strong>JAKOŚĆ TREŚCI </strong></li>
+</ul>
+<p>Treści na stronie są skierowane przede wszystkim do użytkownika, a nie robotów Google. Dlatego powinny być oryginalne i interesujące oraz przyjemne w odbiorze. Unikaj nadużywania słów kluczowych i wynikających z tego koszmarków stylistyczno-językowych.</p>
+<ul>
+<li><strong>ORGANIZACJA TREŚCI </strong></li>
+</ul>
+<p>Treść na stronie powinna być przejrzysta i dobrze zorganizowana. Nikt nie lubi przedzierania się przez niekończące się elaboraty.</p>
+<ul>
+<li><strong>ODNOŚNIKI </strong></li>
+</ul>
+<p>Odwołując się do treści zamieszczonych w innych miejscach na stronie stosuj linkowanie wewnętrzne.</p>
+<ul>
+<li><strong>TREŚCI ZAMIAST GRAFIK </strong></li>
+</ul>
+<p>Nagłówki, linki, ważne hasła – wszystko, co określa tematyczność strony i pokazuje Google istotne treści zamieszczaj na stronie w postaci tekstu, a nie grafik.</p>
+<ul>
+<li><strong>AKTUALIZACJE</strong></li>
+</ul>
+<p>Bądź aktywny. Publikuj artykuły na swojej stronie www, posty w mediach społecznościowych i blogach eksperckich i linkuj. Google lubi, kiedy regularnie dostarczasz  mu nowe treści.</p>
+<p><strong>Istotne techniczne aspekty optymalizacji – czyli co?</strong></p>
+<p>Strony przyjazne SEO wyróżnia prawidłowa optymalizacja, podczas której zwrócono szczególną uwagę na:</p>
+<ul>
+<li><strong>META TAGI czyli OPIS STRONY WIDOCZNY DLA WYSZUKIWARKI </strong></li>
+</ul>
+<p>Powinien być napisany prosto i zawierać jasny przekaz.</p>
+<ul>
+<li><strong>NAGŁÓWKI OD H1 DO H6</strong></li>
+</ul>
+<p>Nagłówki H1 – H6 służą do uzyskania tematyczności danej witryny. Odpowiadają również za personalizację danej podstrony, dlatego ich właściwe uzupełnienie jest tak istotnym elementem optymalizacji. Głównym nagłówkiem jest H1 – to tutaj zamieszczamy tytuł podstrony, który jednocześnie powinien być skrótowym opisem jej zawartości. W kolejnych nagłówkach powinniśmy zawrzeć dodatkowe treści hierarchizując je od najważniejszych (w nagłówku H2) po najmniej istotne, ale  wciąż ważne (w nagłówku H6).</p>
+<ul>
+<li><strong>CZYTELNE ADRESY URL</strong></li>
+</ul>
+<p>Korzystając z sytemu zarządzania treścią CMS upewnijmy się, ze generuje on ładne, a zarazem przyjazne dla użytkownika i robotów Google adresy. Długie ciągi znaków i liczb nie ułatwiają pozycjonowania.</p>
+<ul>
+<li><strong>ŚCIĘŻKĘ POWROTU </strong></li>
+</ul>
+<p>Ścieżka powrotu (z angielskiego breadcrumbs) ułatwia i usprawnia poruszanie się nawet po bardzo rozbudowanym serwisie.</p>
+<ul>
+<li><strong> TEKSTU</strong></li>
+</ul>
+<p>Wytłuszczenia, kursywa i podkreślenia to narzędzia do formatowania treści, których nie powinieneś unikać. Warto jednak zastąpić popularny znacznik bold &lt;b&gt; xyz &lt;/b&gt; znacznikiem strong &lt;strong&gt; xyz &lt;/strong&gt;, który pozwala nie tylko zwrócić uwagę użytkowników na istotne treści, ale także robotów Google.</p>
+<ul>
+<li><strong>SITE MAP czyli MAPA STRONY</strong></li>
+</ul>
+<p>Bardziej rozbudowane serwisy mogą mieć problemy z indeksacją podstron. Żeby ich uniknąć wyposaż swoją stronę w mapę odnośników.</p>
+<ul>
+<li><strong>NIE TYLKO RESPONSYWNOŚĆ I MOBILNOŚĆ</strong></li>
+</ul>
+<p>W dobie stron responsywnych oraz lżejszych wersji mobilnych rozbudowanych serwisów nie zapominaj również o dostosowaniu strony do wymogów najpopularniejszych przeglądarek internetowych. Choć niektórym trudno w to uwierzyć, są na świecie internauci korzystający z innych przeglądarek niż Google e.</p>
+<ul>
+<li><strong>CZAS ŁADOWANIA</strong></li>
+</ul>
+<p>Dzisiaj przede wszystkim liczy się czas, również w przypadku ładowania stron www. Internauci często rezygnują z przeglądania danej strony, jeśli ich zdaniem „zamula” albo za długo się ładuje. Zadbaj o to, żeby Twoja strona ładowała się szybko – unikaj zbyt rozbudowanej grafiki, zmiennego tła oraz starych ciężkich czcionek.</p>
+<ul>
+<li><strong>REKLAMY </strong></li>
+</ul>
+<p>Jeśli zamieszczasz na swojej stronie reklamy rób to w sposób subtelny i niedrażniący użytkownika. Wyskakujące zewsząd pop-upy, które uniemożliwiają zapoznanie się z oryginalną treścią strony przynoszą skutek odwroty od zamierzonego.</p>
+<ul>
+<li><strong>CZARNE TECHNIKI SEO </strong></li>
+</ul>
+<p>Nie zamieszczaj w serwisie ukrytych treści. Ukrywanie na stronie treści dla robotów Google to niedozwolona praktyka pozycjonowania, która w dłuższej perspektywie czasu może wpłynąć na zmniejszenie widoczności Twojego serwisu online. Dbaj o to, żeby użytkownik po wejściu na stronę otrzymał dokładnie taką samą treść jak Google.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Geolokalizacja &#8211; dlaczego jest tak ważna?</title>
+		<link>https://businesssense.pl/blog/geolokalizacja-dlaczego-jest-tak-wazna/</link>
+		<pubDate>Tue, 18 Apr 2017 10:03:48 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2169</guid>
+		<description><![CDATA[Geolokalizacja to narzędzie, które umożliwia prezentowanie danemu użytkownikowi lokalnych wyników dla jego zapytania. W praktyce oznacza że pozycje widoczne na liście wyników wyszukiwania zależą od bieżącej lokalizacji użytkownika identyfikowanej w oparciu o jego adres IP. Wyszukiwanie lokalne Google dąży do tego, aby po wpisaniu mniej lub bardziej precyzyjnego zapytania w]]></description>
+				<content:encoded><![CDATA[<p>Geolokalizacja to narzędzie, które umożliwia prezentowanie danemu użytkownikowi lokalnych wyników dla jego zapytania. W praktyce oznacza że pozycje widoczne na liście wyników wyszukiwania zależą od bieżącej lokalizacji użytkownika identyfikowanej w oparciu o jego adres IP.</p>
+<p><strong>Wyszukiwanie lokalne </strong></p>
+<p>Google dąży do tego, aby po wpisaniu mniej lub bardziej precyzyjnego zapytania w oknie wyszukiwarki użytkownik uzyskiwał wynik jak najbardziej dopasowany do jego potrzeb. Jednym z dosyć dużych kroków w tym kierunku jest automatyczna geolokalizacja wyników wyszukiwania. – <em>Wcześniej poszukując gabinetu stomatologicznego w Poznaniu użytkownik przebywający aktualnie w mieście musiał wpisać w okno wyszukiwania zapytanie „dentysta Poznań”. </em><em>.</em> – tłumaczy <strong>Kamil Usiądek, porduct manager odpowiedzialny za Google Analytics</strong> <strong>w firmie Business Sense Agencja SEM. </strong>Zmiana w algorytmie sprawia, że niezależnie od poziomu doprecyzowania zapytania na pierwszych pozycjach w wynikach, często wyniki ściśle związane z miastem, w którym aktualnie przebywamy lub jego najbliższą okolicą.</p>
+<p><strong>Geolokalizacja a urządzenia mobilne</strong></p>
+<p>Internet mobilny powszechnie dostępny z poziomu urządzeń takich jak smartfony i tablety odgrywa istotną rolę w procesie geolokalizacji wyników wyszukiwania. Badania zachowań internautów dowiodły, że zdecydowana większość osób korzystających z Google za pośrednictwem urządzeń mobilnych potrzebuje odpowiedzi na swoją potrzebę tu i teraz. To „tu i teraz” jest niezwykle istotne z perspektywy zapytań o szeroko rozumianą branżę handlowo-usługową.</p>
+<p><strong>Geolokalizacja a local SEO </strong></p>
+<p>Coraz większa świadomość działania algorytmu geolokalizacji wśród właścicieli witryn internetowych doprowadziła do popularyzacji usługi, którą w branży określa się mianem lokalnego SEO. W odróżnieniu od tradycyjnych form pozycjonowania, lokalne SEO kładzie większy nacisk na działania związane z optymalizacją serwisów pod wyniki wyszukiwania dla klientów z miasta, regionu lub województwa, w którym mieści się siedziba firmy, jej oddział, lokal usługowy czy punkt odbioru towarów. Istotne jest tutaj faktycznie posiadanie fizycznej lokalizacji, w której regularnie są przyjmowani klienci.</p>
+<p><strong>Jak zwiększyć widoczność strony w local SEO?</strong></p>
+<p>Należy pamiętać o tym, że w aspekcie mechanicznym – optymalizacji strony oraz działań off site – local SEO działa dokładnie tak, jak tradycyjne SEO. Jedyną różnicą jest tutaj kładzenie większego nacisku na lokalny wymiar promocji witryny, co wiąże się z koniecznością ciągłego informowania robotów Google o konkretnym umiejscowieniu firmy oraz obszarze jej działania. Atutem tego rozwiązania jest mniejsza konkurencyjność popularnych fraz kluczowych i możliwość osiągnięcia wyższych pozycji w wynikach wyszukiwania przy niższych nakładach finansowych, co jest szczególnie opłacalne w przypadku usług, które ze względu na swoją specyfikę muszą być świadczone w konkretnym miejscu. Bardzo dobrym przykładem takich usług są usługi stomatologiczne oraz mechanika samochodowa – nikt z zepsutym samochodem w Krakowie nie będzie szukał mechanika w Gdańsku i odwrotnie.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ważne zmiany w Google. Pingwin &#8211; co to?</title>
+		<link>https://businesssense.pl/blog/wazne-zmiany-w-google-pingwin-co-to/</link>
+		<pubDate>Wed, 12 Apr 2017 09:57:32 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2164</guid>
+		<description><![CDATA[Pingwin to algorytm Google odpowiedzialny za zwalczanie niedozwolonych sposobów linkowania stron www. Przed ostatnią aktualizacją algorytm karał strony korzystające z backlinków oraz innych zabronionych metod pozyskiwania zewnętrznych odnośników spadkiem pozycji witryny w wynikach wyszukiwania. Witryny ukarane przez Pingwina 3.0 musiały czekać na zdjęcie filtra i możliwość odzyskania pierwotnej widoczności w]]></description>
+				<content:encoded><![CDATA[<p>Pingwin to algorytm Google odpowiedzialny za zwalczanie niedozwolonych sposobów linkowania stron www. Przed ostatnią aktualizacją algorytm karał strony korzystające z backlinków oraz innych zabronionych metod pozyskiwania zewnętrznych odnośników spadkiem pozycji witryny w wynikach wyszukiwania. Witryny ukarane przez Pingwina 3.0 musiały czekać na zdjęcie filtra i możliwość odzyskania pierwotnej widoczności w sieci aż do wdrożenia kolejnej wersji algorytmu, co zajęło Google prawie dwa lata.</p>
+<p><strong>Pingwin 4.0 – Jakie zmiany przyniesie aktualizacja?</strong></p>
+<p>W odróżnieniu od swojego poprzednika Pingwin 4.0 działa w czasie rzeczywistym. Oznacza to, że ukarana strona nie musi czekać do kolejnej aktualizacji algorytmu, żeby filtr mógł zostać zdjęty. Ale to nie jedyna korzyść z nowego Pingwina.</p>
+<p>Okazało się bowiem, że Pingwin 4.0 działa zupełnie inaczej niż poprzednie wersje algorytmu i zdaje się uwzględniać fakt, iż niektóre witryny padają ofiarami działań hakerów oraz nieuczciwych SEOwców.</p>
+<p><strong>Nie taki Pingwin straszny…</strong></p>
+<p>Aktualizacja Pingwina, której obawiało się wielu właścicieli witryn oraz webdeveloperów i specjalistów SEO okazała się bardzo korzystna. Zmiany na lepsze odczuły szczególnie ofiary nieuczciwych praktyk – właściciele serwisów, które były infekowane w celu pozyskania dodatkowych odnośników oraz niczego nieświadomi  klienci nieetycznych SEOwców, którzy korzystali z niedozwolonych sposobów linkowania stron dla szybszych efektów pozycjonowania.</p>
+<p><strong>Podsumujmy</strong></p>
+<ul>
+<li>Pingwin 4.0 to najnowsza aktualizacja algorytmu odpowiedzialnego za wykrywanie i zwalczanie niedozwolonych sposobów linkowania stron www.</li>
+<li>Aktualizacja algorytmu działa w czasie rzeczywistym, co oznacza, iż właściciele „ukaranych” witryn nie będą musieli czekać do kolejnej aktualizacji Pingiwna, żeby odzyskać widoczność w sieci.</li>
+<li>Nowy Pingwin nie obniża pozycji strony internetowej po wykryciu spamowych backlinków, ale je ignoruje. W konsekwencji w rankingach spadają strony, które korzystały z niedozwolonych linków do zwiększenia swojej widoczności w sieci.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Infekcja strony a utrata klientów</title>
+		<link>https://businesssense.pl/blog/infekcja-strony-a-utrata-klientow/</link>
+		<pubDate>Fri, 07 Apr 2017 09:54:48 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2161</guid>
+		<description><![CDATA[Praktycznie każdy serwis internetowy – jeśli nie zostanie odpowiednio zabezpieczony i nie jest regularnie aktualizowany – może stać się obiektem ataków hackerskich oraz „czarnych” praktyk SEO. Najczęściej celem infekcji jest wykorzystanie atakowanej strony jako zaplecza do reklamy określonych produktów i usług. Królują tutaj treści z branży pornograficznej oraz reklamy wyrobów]]></description>
+				<content:encoded><![CDATA[<p>Praktycznie każdy serwis internetowy – jeśli nie zostanie odpowiednio zabezpieczony i nie jest regularnie aktualizowany – może stać się obiektem ataków hackerskich oraz „czarnych” praktyk SEO. Najczęściej celem infekcji jest wykorzystanie atakowanej strony jako zaplecza do reklamy określonych produktów i usług. Królują tutaj treści z branży pornograficznej oraz reklamy wyrobów paramedycznych, których promocja jest zabroniona.</p>
+<p><strong>Jakie są najczęściej spotykane formy wirusów i infekcji?</strong></p>
+<p>Wśród najczęściej wykorzystywanych form infekcji serwisów internetowych spotyka się wstrzykiwanie fragmentów kodu w mało widoczne miejsca oryginalnego kodu strony (z angielskiego php lub mysql inject) lub wręcz zdalne wgrywane na serwer plików (file inject). Zadaniem obu form infekcji jest generowanie konkretnych akcji, takich jak:</p>
+<ul>
+<li>wysyłanie spamu,</li>
+<li>zbieranie adresów mailowych ze strony,</li>
+<li>zbieranie adresów mailowych użytkowników odwiedzających stronę,</li>
+<li>otwieranie okien z treściami reklamowymi,</li>
+<li>przekierowywanie użytkownika na inną stronę www.</li>
+</ul>
+<p><strong>Dlaczego infekcja strony prowadzi do utraty klientów? </strong></p>
+<p>Infekcja strony w sposób pośredni wywiera negatywny wpływ na wizerunek firmy w Internecie. Dysfunkcyjna strona internetowa, która zalewa użytkowników morzem reklam typu pop-up o podejrzanej treści nie najlepiej wpisuje się w konwencję budowania wizerunku eksperta i jest mało atrakcyjna dla internauty, którego zwyczajnie denerwują nieustannie otwierające się okna z reklamami i filmikami. Ale uciążliwe pop-up`y to nie wszystko. Często, ze względów bezpieczeństwa wyświetlanie zainfekowanej strony na danym urządzeniu jest blokowane przez oprogramowanie antywirusowe, a nierzadko nawet przez samego dostawcę usług hostingowych. Zainfekowana strona jest szybko rozpoznawana przez Google, przez co obniżane są pozycje takiej domeny w wynikach wyszukiwania. To sprawia, że potencjalni klienci nie mają najmniejszych szans na zapoznanie się z zawartością , a co za tym idzie, zmniejsza się ruch na danej stronie oraz spada sprzedaż towarów i usług.</p>
+<p><strong>Co może świadczyć o tym, że moja strona jest zainfekowana?</strong></p>
+<p>Najczęściej ofiarami ataków hackerskich padają serwisy zaniedbywane, a więc takie, które są rzadko aktualizowane czy też modernizowane. To w takich miejscach wirus może przetrwać najdłużej niezauważony. I choć wielu infekcji na stronie nie jesteśmy w stanie dostrzec gołym okiem, to jest kilka przesłanek, które mogą świadczyć o tym, że nasza strona została zainfekowana:</p>
+<ol>
+<li>Pierwszym symptomem infekcji może być blokada wyświetlania strony ze względu na niebezpieczną zawartość nałożona przez firmę hostingową.</li>
+<li>O potencjalnej infekcji może świadczyć również blokada możliwości wysyłania wiadomości z konkretnych skrzynek pocztowych ze względu na wysyłkę spamu – powinno nas to szczególnie zaniepokoić, jeśli nie wykorzystywaliśmy tych adresów mailowych do rozsyłania żadnego mailingu masowego.</li>
+<li>Trzecim symptomem zawirusowania witryny internetowej są komunikaty programów antywirusowych, które ostrzegają potencjalnych klientów przed niebezpieczeństwem związanym z wejściem na naszą .</li>
+<li>Kolejnym sygnałem jest odpowiednio oznaczona strona przez Google, z informacją o infekcji.</li>
+<li>Również, przeglądarki takie jak Firefox czy Chrome informują przed wejściem na zainfekowaną stronę, o tym że istnieje ryzyko wyrządzenia szkody na Twoim komputerze etc.</li>
+</ol>
+<p><strong>Podejrzewam, że moja strona jest zawirusowana – co robić? </strong></p>
+<p>Jeśli podejrzewasz, że Twoja strona została zainfekowana złośliwym oprogramowaniem reaguj od razu! Każda chwila zwłoki działa na Twoją niekorzyść – wpływa negatywnie na wizerunek Twojej firmy i zniechęca potencjalnych klientów do skorzystania z jej oferty! Pomocy możesz szukać w firmie tworzącej serwisy internetowe, w agencji SEO oraz agencji SEM. Specjaliści zajmujący się optymalizacją kodu na co dzień szybko znajdą złośliwe „zastrzyki” i je usuną. – <em>Warto również pamiętać o odpowiednim zabezpieczeniu strony oraz jej regularnej aktualizacji. </em>– przypomina <strong>Mateusz Kozłowski, kierownik działu pozycjonowania stron internetowych w firmie Business Sense Agencja SEM</strong>, do której codziennie zgłaszają się zrozpaczeni właściciele zainfekowanych stron www.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Agencja SEO – jak wybrać?</title>
+		<link>https://businesssense.pl/blog/agencja-seo-jak-wybrac/</link>
+		<pubDate>Mon, 03 Apr 2017 09:51:17 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2158</guid>
+		<description><![CDATA[Wysoka pozycja w wynikach wyszukiwania Google to za mało, żeby Twój serwis zaczął sprzedawać. Dlatego obok działań związanych z optymalizacją strony pod kątem wyszukiwarek internetowych dobra agencja SEO zaproponuje również zmiany w jej zawartości i strukturze. Celem tych zmian będzie nie tylko zwiększenie widoczności strony w sieci, ale przede wszystkim]]></description>
+				<content:encoded><![CDATA[<p>Wysoka pozycja w wynikach wyszukiwania Google to za mało, żeby Twój serwis zaczął sprzedawać. Dlatego obok działań związanych z optymalizacją strony pod kątem wyszukiwarek internetowych dobra agencja SEO zaproponuje również zmiany w jej zawartości i strukturze. Celem tych zmian będzie nie tylko zwiększenie widoczności strony w sieci, ale przede wszystkim podniesienie komfortu jej użytkowania, który znajdzie bezpośrednie przełożenie na wzrost sprzedaży.</p>
+<p><strong>Jak najlepiej szybko sprawdzić agencję SEO? </strong></p>
+<p>Najlepiej wybrać sprawdzoną agencję z polecenia. Niestety nie zawsze możemy liczyć na rekomendacje znajomych, a te zamieszczane w mediach społecznościowych bywają „delikatnie rzecz ujmując” podejrzanie entuzjastyczne. W takiej sytuacji nie pozostaje nam nic innego, jak rozpoczęcie poszukiwań agencji na własną rękę. Swoje poszukiwania najprawdopodobniej rozpoczniemy od Internetu – bo gdzie indziej szukać firmy specjalizującej się w pozycjonowaniu stron internetowych? Znalezienie setek odpowiedzi na zapytanie „pozycjonowanie stron internetowych” zajmie przeglądarce Google niecałą sekundę. I co dalej?</p>
+<p>Przejrzyj kilka stron. Zapoznaj się z ofertami różnych firm. Dokonaj wstępnej selekcji, a do agencji, które wydają Ci się godne zaufania wyślij zapytanie z prośbą o ofertę. – <em>Zapytanie ofertowe to najprostszy, najszybszy i najskuteczniejszy sposób weryfikacji rzetelności agencji SEO</em> – tłumaczy <strong>Kamil Usiądek, porduct manager odpowiedzialny za Google Analytics</strong> <strong>w firmie Business Sense Agencja SEM. </strong></p>
+<p><strong>Jak sformułować zapytanie ofertowe? </strong></p>
+<p>Im krótsze będzie Twoje zapytanie i im mniej szczegółów dotyczących swojej firmy podasz, tym więcej dowiesz się o danej firmie pozycjonującej. Jeśli w odpowiedzi na e-mail zawierający wyłącznie adres strony i propozycję kilku fraz kluczowych (listę proponowanych fraz warto wzbogacić o coś subtelnie niedorzecznego) otrzymasz wiadomość z gotową ofertą i wyceną usługi (a nawet gotowym wzorem umowy, w którym brakuje już tylko danych Twojej firmy) możesz mieć pewność, że ta konkretna firma skupia się przede wszystkim na mechanicznym podnoszeniu pozycji strony w wynikach wyszukiwania. Nikt nie będzie się tam przejmował współczynnikiem konwersji dla danych fraz kluczowych oraz stopniem zadowolenia użytkowników ze strony… W konsekwencji wysoka pozycja w wynikach nie przełoży się na wzrost sprzedaży. Jeśli natomiast w odpowiedzi otrzymasz szereg pytań dotyczących specyfiki Twojego biznesu lub propozycję osobistego albo telefonicznego omówienia szczegółów zakresu usługi będzie to sygnał, że ofertą tej konkretnej agencji SEO warto się bliżej zainteresować.</p>
+<p><strong>Czego unikać wybierając agencję SEO? </strong></p>
+<ul>
+<li><strong>Rozliczeń wyłącznie za efekt </strong></li>
+</ul>
+<p>Ten typ rozliczania działań SEO sprzyja wykorzystywaniu agresywnych i/lub niedozwolonych praktyk. W rezultacie stosowania niedozwolonych praktyk po szybkim wzroście w wynikach wyszukiwania strona jest „karana” przez Google, a jej widoczność w sieci drastycznie spada.</p>
+<ul>
+<li><strong>Obietnic szybkich efektów </strong></li>
+</ul>
+<p>Zależnie od stanu pozycjonowanego serwisu oraz konkurencyjności słów i fraz kluczowych pierwsze efekty pozycjonowania organicznego są widoczne po kilku, a nawet kilkunastu tygodniach. Firmy obiecujące szybsze efekty często korzystają z nieetycznych praktyk lub pozycjonują serwisy na najmniej konkurencyjne frazy.</p>
+<ul>
+<li><strong>Gwarancji wysokich pozycji w TOP10 wyników wyszukiwania </strong></li>
+</ul>
+<p>Żadna agencja SEO nie może zagwarantować swoim klientom pierwszej pozycji w wynikach wyszukiwania. Nawet gwarancja widoczności w TOP 5 bywa sporym nadużyciem. Dobra agencja SEO wie, że pozycja strony zależy nie tylko od jej odpowiedniej optymalizacji, ale również od personalizacji wyników wyszukiwania Google oraz potencjału sprzedażowego strony.</p>
+<ul>
+<li><strong>Niekorzystnych zapisów w umowach </strong></li>
+</ul>
+<p>Warto zwrócić szczególną uwagę na zapisy dotyczące zakresu usługi oraz rozliczania pracy agencji. Ten drugi aspekt jest szczególnie istotny w przypadku abonamentowego rozliczania usługi. Unikajmy podpisywania umów, w których bardzo niejasno albo zbyt ogólnikowo określono podstawę rozliczeń (zakres świadczonych usług).</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dlaczego warto inwestować w pozycjonowanie?</title>
+		<link>https://businesssense.pl/blog/dlaczego-warto-inwestowac-w-pozycjonowanie/</link>
+		<pubDate>Fri, 24 Mar 2017 10:16:46 +0000</pubDate>
+		<dc:creator><![CDATA[businesssense2016]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">https://businesssense.pl/?p=2155</guid>
+		<description><![CDATA[Jako właściciel witryny praktycznie codziennie jesteś bombardowany mniej lub bardziej agresywnym przekazem reklamowym, który namawia Cię do skorzystania z oferty pozycjonowania Twojej strony internetowej. Masz wrażenie, że świat oszalał już do reszty? Firmy SEO prześcigają się w obietnicach coraz wyższych pozycji w wynikach wyszukiwania, coraz krótszego czasu oczekiwania na efekty]]></description>
+				<content:encoded><![CDATA[<p>Jako właściciel witryny praktycznie codziennie jesteś bombardowany mniej lub bardziej agresywnym przekazem reklamowym, który namawia Cię do skorzystania z oferty pozycjonowania Twojej strony internetowej. Masz wrażenie, że świat oszalał już do reszty? Firmy SEO prześcigają się w obietnicach coraz wyższych pozycji w wynikach wyszukiwania, coraz krótszego czasu oczekiwania na efekty i coraz wyższej jakości usług za coraz niższą cenę, a Ty wciąż zastanawiasz się, czemu to wszystko ma służyć?!</p>
+<p><strong>Zacznijmy od początku… </strong></p>
+<p><strong>Czym jest pozycjonowanie?</strong></p>
+<p>Pozycjonowanie to zbiór przemyślanych i zaplanowanych działań, których główną rolą jest osiąganie przez dany serwis internetowy – stronę www lub sklep online – jak najwyższej pozycji w wynikach wyszukiwania wyszukiwarek internetowych.</p>
+<p><strong>Dlaczego wysoka pozycja w wynikach wyszukiwania jest ważna? </strong></p>
+<p>Wysoka pozycja w wynikach wyszukiwania dla danych słów i fraz kluczowych zwiększa widoczność serwisu w sieci. To z kolei generuje większy ruch organiczny na stronie, który jest szczególnie cenny dla właścicieli serwisów ze względu na wysoki współczynnik konwersji.</p>
+<p><strong>Czym jest współczynnik konwersji i dlaczego jest taki ważny?</strong></p>
+<p>Terminem konwersja określa się proces przekształcania postaci czegoś. Zależnie od celu działania danej witryny konwersją może być m.in.:</p>
+<ul>
+<li>subskrypcja (np. zapisanie się użytkownika na newsletter),</li>
+<li>dokonanie jakiegokolwiek zakupu,</li>
+<li>dokonanie zakupu na określona kwotę minimalną,</li>
+<li>zaimportowanie określonego pliku ze strony,</li>
+<li>zarejestrowanie konta klienta.</li>
+</ul>
+<p>W przypadku stron sprzedażowych konwersją jest przede wszystkim zakup danego produktu lub usługi, a w przypadku usług wycenianych indywidualnie wysłanie zapytania ofertowego lub pozostawienie przez potencjalnego klienta danych kontaktowych.</p>
+<p><strong>Metody zwiększania widoczności w  Google</strong></p>
+<p>Metody osiągania większej widoczności w Google można podzielić na działania związane z pozycjonowaniem organicznym oraz kampanie linków sponsorowanych Google AdWords. Pierwsza grupa dąży do generowania jak największego ruchu organicznego (bezpłatnego), druga koncentruje się na pozyskiwaniu użytkowników za pośrednictwem reklam widocznych na stronach z wynikami wyszukiwania organicznego Google. Zależnie od specyfiki firmy i branży, w której działa, a także konkurencyjności istotnych słów i fraz kluczowych do promocji serwisu można wykorzystać wybraną lub obie metody.</p>
+<p><strong>Pozycjonowanie – dlaczego to się opłaca?</strong></p>
+<p>Pozycjonowanie – zwłaszcza organiczne – to najlepszy sposób na zwiększenie bezpłatnego, a zarazem wartościowego ruchu na stronie. Podnosząc pozycję swojej witryny w organicznych wynikach wyszukiwania Google zwiększasz jej widoczność w sieci. W ten sposób Twoja oferta trafia do coraz szerszego grona potencjalnych odbiorców, również tych z spoza rynku lokalnego.</p>
+<ul>
+<li><strong>Globalny zasięg</strong></li>
+</ul>
+<p>Za pośrednictwem strony internetowej Twoja oferta dociera do setek, jeśli nie tysięcy internautów każdego dnia. Dzięki temu nawet przy ograniczonym popycie na lokalnym rynku Ty wciąż możesz czerpać zyski ze sprzedaży swoich towarów i usług.</p>
+<ul>
+<li><strong>Prestiż</strong></li>
+</ul>
+<p>Google bezsprzecznie opanował rynek e-marketingu, nie tylko w Polsce. Dlatego dla przetrwania Twojego biznesu tak istotna jest widoczność w wyszukiwarce. Jeśli Twoja strona będzie zajmowała niskie pozycje w wynikach wyszukiwania nikt się o niej nie dowie, nikt nie dowie się również o Twojej ofercie. Wysoka pozycja w Google jest niezbędna do budowy rozpoznawalnej marki.</p>
+<ul>
+<li><strong>Niski koszt reklamy</strong></li>
+</ul>
+<p>Tradycyjne narzędzia marketingowe – ulotki, ogłoszenia prasowe, ogłoszenia radiowe, plakaty i inne – wiążą się z wysokim kosztem, który nie każde przedsiębiorstwo może udźwignąć. Pozycjonowanie jest usługą, której koszt rośnie wprost proporcjonalnie do zakresu realizowanych prac. Dzięki temu również niewielkie firmy posiadające proste strony internetowe mogą w pełni korzystać z dobrodziejstw e-marketingu.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
