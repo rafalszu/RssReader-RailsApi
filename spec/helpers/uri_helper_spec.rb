@@ -34,39 +34,39 @@ RSpec.describe UriHelper, type: :helper do
     end
 
     it 'recognizes a valid url when passing fqdn without protocol' do
-      expect(UriHelper.valid_url?('www.google.com')).to be true
+      expect(UriHelper.valid_url?('www.some.address')).to be true
     end
 
     it 'recognizes a valid url when passing just the domain name' do
-      expect(UriHelper.valid_url?('google.com')).to be true
+      expect(UriHelper.valid_url?('some.address')).to be true
     end
 
     it 'recognizes a valid url when passing an fqdn with protocol' do
-      expect(UriHelper.valid_url?('http://google.com')).to be true
-      expect(UriHelper.valid_url?('https://google.com')).to be true
+      expect(UriHelper.valid_url?('http://some.address')).to be true
+      expect(UriHelper.valid_url?('https://some.address')).to be true
     end
 
     it 'recognizes a valid url when passign fqdn with port' do
-      expect(UriHelper.valid_url?('www.google.com:8081')).to be true
+      expect(UriHelper.valid_url?('www.some.address:8081')).to be true
     end
 
     it 'recognizes a valid url when passing a domain name with port and protocol' do
-      expect(UriHelper.valid_url?('http://google.com:8081')).to be true
-      expect(UriHelper.valid_url?('https://google.com:8081')).to be true
+      expect(UriHelper.valid_url?('http://some.address:8081')).to be true
+      expect(UriHelper.valid_url?('https://some.address:8081')).to be true
     end
 
     it 'recognizes a valid url when passing an fqdn with port and protocol' do
-      expect(UriHelper.valid_url?('http://www.google.com:8081')).to be true
-      expect(UriHelper.valid_url?('https://www.google.com:8081')).to be true
+      expect(UriHelper.valid_url?('http://www.some.address:8081')).to be true
+      expect(UriHelper.valid_url?('https://www.some.address:8081')).to be true
     end
 
     it 'recognizes a valid url when passing a subpath to domain name with port' do
-      expect(UriHelper.valid_url?('www.google.com:8081/some/nested/folder/rss')).to be true
+      expect(UriHelper.valid_url?('www.some.address:8081/some/nested/folder/rss')).to be true
     end
 
     it 'recognizes a valid url when passing a subpath to fqdn with port and protocol' do
-      expect(UriHelper.valid_url?('http://www.google.com:8081/some/nested/folder/rss')).to be true
-      expect(UriHelper.valid_url?('https://www.google.com:8081/some/nested/folder/rss')).to be true
+      expect(UriHelper.valid_url?('http://www.some.address:8081/some/nested/folder/rss')).to be true
+      expect(UriHelper.valid_url?('https://www.some.address:8081/some/nested/folder/rss')).to be true
     end
 
     it '.from_string returns nil if given an invalid url string' do
@@ -74,23 +74,23 @@ RSpec.describe UriHelper, type: :helper do
     end
 
     it '.from_string returns URI if given a valid url string' do
-      expect(UriHelper.from_string('www.google.com')).to be_kind_of(URI)
+      expect(UriHelper.from_string('www.some.address')).to be_kind_of(URI)
     end
 
     it '.from_string returns URI with scheme if given a valid url string' do
-      expect(UriHelper.from_string('www.google.com').scheme).to eql('http')
+      expect(UriHelper.from_string('www.some.address').scheme).to eql('http')
     end
 
     it '.from_string returns URI without changing the scheme if passed' do
-      expect(UriHelper.from_string('https://google.com').scheme).to eql('https')
+      expect(UriHelper.from_string('https://some.address').scheme).to eql('https')
     end
 
     it '.merge_from_strings returns valid uri' do
-      expect(UriHelper.merge_from_strings('/sub/folder', 'www.google.com').to_s).to eql('http://www.google.com/sub/folder')
+      expect(UriHelper.merge_from_strings('/sub/folder', 'www.some.address').to_s).to eql('http://www.some.address/sub/folder')
     end
 
     it '.merge_from_strings returns valid uri even if not prefixed with slash' do
-      expect(UriHelper.merge_from_strings('sub/folder', 'www.google.com').to_s).to eql('http://www.google.com/sub/folder')
+      expect(UriHelper.merge_from_strings('sub/folder', 'www.some.address').to_s).to eql('http://www.some.address/sub/folder')
     end
 
   end
