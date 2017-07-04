@@ -17,6 +17,10 @@ RSpec.describe RssHelper, type: :helper do
     it '.get_content_from_url is private' do
       expect(RssHelper).to_not respond_to(:get_content_from_url)
     end
+    
+    it '.open_content_from_url is private' do
+      expect(RssHelper).to_not respond_to(:open_content_from_url)
+    end
   end
 
   context 'working with empty content' do
