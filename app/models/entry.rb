@@ -17,6 +17,8 @@ class Entry < ApplicationRecord
         entry.title = rss_entry.title
         entry.summary = rss_entry.summary
         entry.content = rss_entry.content
+        entry.author = rss_entry.author
+        entry.published = rss_entry.published
       end
     end
   end
