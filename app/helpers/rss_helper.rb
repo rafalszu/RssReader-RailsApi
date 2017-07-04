@@ -1,6 +1,5 @@
 require 'uri_helper'
-require 'digest/md5'
-require 'nokogiri'
+require 'html_helper'
 require 'open-uri'
 require 'base64'
 require 'faraday'
@@ -11,12 +10,14 @@ module RssHelper
   def latest_entries_from_content(content = '')
     return [] if content.blank?
 
-    return content if content.downcase.starts_with?('<?xml', '<?rss', '<rss')
+    return parse_feeds(content) if content.downcase.starts_with?('<?xml', '<?rss', '<rss')
     
     if content.downcase.starts_with('<html', '<!doctype')
-      puts 'not supported yet'
+      feeds = HtmlHelper.extract_rss_feeds(content)
+      feeds.each { |f| return latest_entries_from_content(f) }
     end
-      
+    
+    []
   end
   
   def latest_entries_from_url(url = '')
@@ -44,6 +45,13 @@ module RssHelper
     @content
   end
   
-  private_class_method :get_content_from_url, :open_content_from_url
+  def parse_feeds(content)
+    return [] if content.blank?
+    
+    feed = Feedjira::Feed.parse(content)
+    feed.entries
+  end
+  
+  private_class_method :get_content_from_url, :open_content_from_url, :parse_feeds
   
 end
