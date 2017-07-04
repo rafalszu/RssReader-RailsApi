@@ -12,7 +12,7 @@ module RssHelper
 
     return parse_feeds(content) if content.downcase.starts_with?('<?xml', '<?rss', '<rss')
     
-    if content.downcase.starts_with('<html', '<!doctype')
+    if content.downcase.starts_with?('<html', '<!doctype')
       feeds = HtmlHelper.extract_rss_feeds(content)
       feeds.each { |f| return latest_entries_from_content(f) }
     end

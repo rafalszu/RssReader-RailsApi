@@ -71,7 +71,7 @@ RSpec.describe RssHelper, type: :helper do
 
       it 'all entries have permanent urls' do
         articles = RssHelper.latest_entries_from_content(@content)
-        expect(articles.any? { |a| a.permanent_url.blank? }).to be false
+        expect(articles.any? { |a| a.url.blank? }).to be false
       end
     end
 
@@ -81,7 +81,7 @@ RSpec.describe RssHelper, type: :helper do
       end
 
       it '.latest_entries_from_content returns 30 articles from wired feed' do
-        expect(RssHelper.latest_entries_from_content(@contentcontent).length).to eq(30)
+        expect(RssHelper.latest_entries_from_content(@content).length).to eq(30)
       end
 
       it 'all entries have titles' do
@@ -91,7 +91,7 @@ RSpec.describe RssHelper, type: :helper do
 
       it 'all entries have permanent urls' do
         articles = RssHelper.latest_entries_from_content(@content)
-        expect(articles.any? { |a| a.permanent_url.blank? }).to be false
+        expect(articles.any? { |a| a.url.blank? }).to be false
       end
     end
   end
