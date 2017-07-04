@@ -20,4 +20,12 @@ module UriHelper
     url = "http://#{url}" unless url.start_with?('http', 'https')
     URI.parse(url)
   end
+
+  def merge_from_strings(url, source_url)
+    source_uri = from_string(source_url)
+    uri = source_uri.merge(url) unless source_uri.nil?
+    uri = from_string(url) if source_uri.nil?
+
+    uri
+  end
 end

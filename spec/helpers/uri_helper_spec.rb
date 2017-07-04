@@ -85,5 +85,13 @@ RSpec.describe UriHelper, type: :helper do
       expect(UriHelper.from_string('https://google.com').scheme).to eql('https')
     end
 
+    it '.merge_from_strings returns valid uri' do
+      expect(UriHelper.merge_from_strings('/sub/folder', 'www.google.com').to_s).to eql('http://www.google.com/sub/folder')
+    end
+
+    it '.merge_from_strings returns valid uri even if not prefixed with slash' do
+      expect(UriHelper.merge_from_strings('sub/folder', 'www.google.com').to_s).to eql('http://www.google.com/sub/folder')
+    end
+
   end
 end
