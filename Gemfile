@@ -45,9 +45,10 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-
-gem 'rack-attack'
 gem 'active_model_serializers'
-gem 'rails_api_auth', git: "https://github.com/simplabs/rails_api_auth.git", branch: "rails-5.1-migrations"
+gem 'faraday'
 gem 'feedjira'
 gem 'nokogiri'
+gem 'open_uri_redirections'
+gem 'rack-attack'
+gem 'rails_api_auth', git: "https://github.com/simplabs/rails_api_auth.git", branch: "rails-5.1-migrations"
