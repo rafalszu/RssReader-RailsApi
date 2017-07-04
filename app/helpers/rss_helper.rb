@@ -11,7 +11,12 @@ module RssHelper
   def latest_entries_from_content(content = '')
     return [] if content.blank?
 
+    return content if content.downcase.starts_with?('<?xml', '<?rss', '<rss')
     
+    if content.downcase.starts_with('<html', '<!doctype')
+      puts 'not supported yet'
+    end
+      
   end
   
   def latest_entries_from_url(url = '')
