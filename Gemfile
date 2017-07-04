@@ -50,3 +50,4 @@ gem 'rack-attack'
 gem 'active_model_serializers'
 gem 'rails_api_auth', git: "https://github.com/simplabs/rails_api_auth.git", branch: "rails-5.1-migrations"
 gem 'feedjira'
+gem 'nokogiri'
