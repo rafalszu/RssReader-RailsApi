@@ -15,7 +15,8 @@ class Entry < ApplicationRecord
       Entry.find_or_create_by!(permanent_url: rss_entry.url, user_id: feed.user.id, feed_id: feed.id) do |entry|
         entry.read = false
         entry.title = rss_entry.title
-        entry.content = rss_entry.summary
+        entry.summary = rss_entry.summary
+        entry.content = rss_entry.content
       end
     end
   end
