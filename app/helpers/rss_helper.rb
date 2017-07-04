@@ -7,39 +7,44 @@ require 'faraday'
 module RssHelper
   module_function
 
-  def latest_entries_from_content(content = '')
+  def latest_entries_from_content(content = '', uri = nil)
     return [] if content.blank?
 
-    return parse_feeds(content) if content.downcase.starts_with?('<?xml', '<?rss', '<rss')
+    ready_content = content.strip
+    return parse_feeds(content) if ready_content.downcase.starts_with?('<?xml', '<?rss', '<rss')
 
-    if content.downcase.starts_with?('<html', '<!doctype')
+    if ready_content.downcase.starts_with?('<html', '<!doctype')
       feeds = HtmlHelper.extract_rss_feeds(content)
-      feeds.each { |f| return latest_entries_from_content(f) }
+      feeds.each do |feed|
+        url = uri.merge(feed).to_s unless uri.nil? || feed.starts_with?('http, https')
+        url = feed if feed.starts_with?('http', 'https')
+        return latest_entries_from_url(url)
+      end
     end
 
     []
   end
 
-  def latest_entries_from_url(url = '')
-    content = get_content_from_url(url)
+  def latest_entries_from_url(url)
+    uri = UriHelper.from_string(url)
+    return [] if uri.nil?
+
+    content = content_from_uri(uri)
     return [] if content.blank?
 
-    latest_entries_from_content(content)
+    latest_entries_from_content(content, uri)
   end
 
-  def get_content_from_url(url = '')
-    return '' if url.blank?
-    return '' unless UriHelper.is_valid_url?(url)
-
-    open_content_from_url(url)
+  def content_from_uri(uri)
+    return '' if uri.nil?
+    open_content_from_uri(uri)
   end
 
-  def open_content_from_url (url = '')
-    return '' if url.blank?
-    return '' unless UriHelper.is_valid_url?(url)
+  def open_content_from_uri(uri)
+    return '' if uri.nil?
 
     opts = { allow_redirections: :safe, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE }
-    open(url, opts) { |f| @content = f.read if url }
+    open(uri, opts) { |f| @content = f.read if uri }
     # conv = Iconv.new('UTF-8', 'UTF-8')
     # @content = conv.iconv(@Content)
     @content
@@ -52,6 +57,5 @@ module RssHelper
     feed.entries
   end
 
-  private_class_method :get_content_from_url, :open_content_from_url, :parse_feeds
-
+  private_class_method :content_from_uri, :open_content_from_uri, :parse_feeds
 end
