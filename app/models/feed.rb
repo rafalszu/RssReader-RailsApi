@@ -1,8 +1,9 @@
-require "deleteable"
+require 'deleteable'
+require 'censorable'
 require 'rss_helper'
 
 class Feed < ApplicationRecord
-  include Deletable
+  include Deletable, Censorable
 
   has_many :entries
   belongs_to :user
