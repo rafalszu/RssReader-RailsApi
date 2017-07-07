@@ -3,9 +3,19 @@
 module Censorable
   extend ActiveSupport::Concern
 
-  # def censor(str)
-  #   # sanitize(str)
-  # end
-
-  # make it go through all accessors and if type string, run sanitze on it
+  included do
+    before_validation :strip_js
+  end
+  
+  def strip_js
+    # go only through the dirty props
+    self.changed.each do |prop|
+      self[prop] = remove_unsafe_tags(self[prop]) if self[prop].instance_of? String
+    end
+  end
+  
+  def remove_unsafe_tags(str)
+    doc = Loofah.fragment(str).scrub!(:prune)
+    doc.to_s
+  end
 end
