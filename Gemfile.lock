@@ -199,6 +199,7 @@ DEPENDENCIES
   faraday
   feedjira
   listen (>= 3.0.5, < 3.2)
+  loofah
   nokogiri
   open_uri_redirections
   pg (~> 0.18)

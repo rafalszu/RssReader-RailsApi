@@ -52,3 +52,4 @@ gem 'nokogiri'
 gem 'open_uri_redirections'
 gem 'rack-attack'
 gem 'rails_api_auth', git: "https://github.com/simplabs/rails_api_auth.git", branch: "rails-5.1-migrations"
+gem 'loofah'
