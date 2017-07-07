@@ -1,8 +1,9 @@
-require "deleteable"
+require 'deleteable'
+require 'censorable'
 
 class Entry < ApplicationRecord
-  include Deletable
-
+  include Deletable, Censorable
+  
   belongs_to :feed
   belongs_to :user
 
