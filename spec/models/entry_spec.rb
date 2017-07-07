@@ -37,6 +37,32 @@ RSpec.describe Entry, type: :model do
       subject.user = nil
       expect(subject).to_not be_valid
     end
+    
+    describe 'censorable' do
+      it 'removes <script> tag hidden in the title' do
+        subject.title = '<div>hello<script>alert("jsbomb!")</script></div>'
+        subject.valid?
+        expect(subject.title).to eql('<div>hello</div>')
+      end
+      
+      it 'does some additional html-encoding for encoded <script> tag hidden in the title' do
+        subject.title = '<div>hello&lt;script&rt;alert("jsbomb!")&lt;/script&rt;</div>'
+        subject.valid?
+        expect(subject.title).to eql('<div>hello&lt;script&amp;rt;alert("jsbomb!")&lt;/script&amp;rt;</div>')
+      end
+      
+      it 'does NOT change the title with whitelisted html tags' do
+        subject.title = '<div><h3>a title</h3></div>'
+        subject.valid?
+        expect(subject.title).to eql('<div><h3>a title</h3></div>')
+      end
+      
+      it 'does NOT change a plain text title' do
+        subject.title = 'a title'
+        subject.valid?
+        expect(subject.title).to eql('a title')
+      end
+    end
   end
 
 end
