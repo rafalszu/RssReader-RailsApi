@@ -2,7 +2,8 @@ require 'deleteable'
 require 'censorable'
 
 class Entry < ApplicationRecord
-  include Deletable, Censorable
+  include Deletable
+  include Censorable
   
   belongs_to :feed
   belongs_to :user
