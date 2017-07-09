@@ -1,6 +1,6 @@
 module Api
   module V1
-    class EntriesController < ApplicationController
+    class EntriesController < AuthenticatedController
       def index
         render json: Entry.all
       end
