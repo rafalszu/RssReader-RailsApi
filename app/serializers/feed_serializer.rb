@@ -1,3 +1,3 @@
-class FeedSerializer < ActiveModel::Serializer
+class FeedSerializer < BaseSerializer
   attributes :id, :title, :address
 end

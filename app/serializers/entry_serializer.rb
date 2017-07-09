@@ -1,3 +1,3 @@
-class EntrySerializer < ActiveModel::Serializer
+class EntrySerializer < BaseSerializer
   attributes :id
 end
