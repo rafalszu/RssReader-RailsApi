@@ -28,11 +28,11 @@ gem 'puma', '~> 3.7'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'factory_girl'
+  gem 'factory_girl_rails'
   gem 'rspec'
   gem 'rspec-rails'
   gem 'shoulda'
-  gem 'factory_girl'
-  gem 'factory_girl_rails'
 end
 
 group :development do
@@ -52,8 +52,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'active_model_serializers'
 gem 'faraday'
 gem 'feedjira'
+gem 'loofah'
 gem 'nokogiri'
 gem 'open_uri_redirections'
 gem 'rack-attack'
 gem 'rails_api_auth', git: "https://github.com/simplabs/rails_api_auth.git", branch: "rails-5.1-migrations"
-gem 'loofah'
