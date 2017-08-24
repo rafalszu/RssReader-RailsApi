@@ -10,28 +10,27 @@ RSpec.describe Api::V1::UsersController, type: :api do
 
   before :all do
     # create a user, and login?
-    u = User.create(first_name: 'John', last_name: 'Doe01', email: johns_email)
-    u.create_login(identification: johns_email, password: johns_password, password_confirmation: johns_password)
+    @user = User.find_or_create_by(first_name: 'John', last_name: 'Doe01', email: johns_email)
+    @user.create_login(identification: johns_email, password: johns_password, password_confirmation: johns_password)
   end
 
-  # describe 'POST /token' do
-  #   let(:params) { { grant_type: 'password', username: johns_email, password: johns_password } }
-  #   subject { post '/token', params: params, headers: { 'HTTPS' => false } }
+  describe 'POST /token' do
+    params = { grant_type: 'password', username: johns_email, password: johns_password }
+    headers = { "CONTENT_TYPE" => "application/x-www-form-urlencoded", "ACCEPT" => "application/json" }
+    subject { post '/token', params, headers }
 
-  #   context 'for grant_type = "PASSWORD"' do
-  #     it 'responds with status 200' do
-  #       subject
+    context 'for grant_type = "PASSWORD"' do
+      it 'responds with status 200' do
+        subject
 
-  #       puts subject
-  #       expect(last_response).to have_http_status(200)
-  #     end
+        expect(last_response.status).to eq(200)
+      end
 
-  #     it 'responds with an access token' do
-  #       subject
+      it 'responds with an access token' do
+        subject
 
-  #       expect(last_response.body).to be_json_eql({ access_token: login.oauth2_token }.to_json)
-  #     end
-  #   end
-  # end
-  
+        expect(last_response_as_json['access_token']).to eq(@user.login.oauth2_token)
+      end
+    end
+  end
 end
